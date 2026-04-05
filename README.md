@@ -72,5 +72,9 @@ Polystress-Py/ ├── polystress.py # Main calculation engine ├── Secti
 
 
 ---
-**Author:** [Owen Nguyen]  
+**Author:** [Owen Nguyen]  / Nguyen Phuoc Thinh
 *Aspiring Computational Structural Engineer*
+---
+This is my first project — and in many ways, my first “child.”
+
+I hope it can help you get through Strength of Materials, or serve as a case study for anyone starting out in FEA or computational engineering, just like I once did.
