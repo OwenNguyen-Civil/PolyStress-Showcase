@@ -1,5 +1,5 @@
 # Polystress-Py: Advanced Structural Section Analysis
-Product development life cycle (PDLC): 1/2026 - 2/2026 /
+Product development life cycle (PDLC): 1/2026 - 4/2026 /
 Status: Completed
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
